@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Shortes time in the best case scenario (Omega) sorted file
+
+sort2 uses: Merge Sort
+
+How do you know?: Shortest time in both best and worst case scenarios
+
+sort3 uses: Selection Sort
+
+How do you know?: longest time in best case scenario
